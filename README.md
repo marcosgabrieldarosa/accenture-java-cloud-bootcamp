@@ -1,14 +1,21 @@
-# Accenture - Java & Cloud Bootcamp 🚀
+# Accenture Java & Cloud Bootcamp
 
-Este repositório documenta minha jornada de aprendizado no **Bootcamp Accenture – Desenvolvimento Java & Cloud**, incluindo:
+Este repositório documenta minha jornada de aprendizado no Bootcamp 
+Accenture – Desenvolvimento Java & Cloud.
 
-- Java e Programação Orientada a Objetos
-- APIs REST com Spring Boot
-- Docker
-- AWS e Cloud Computing
-- Boas práticas e desafios práticos
+## Objetivo
+Desenvolver competências práticas em backend com Java, APIs REST,
+Spring Boot, Docker e Cloud (AWS).
 
-📌 **Status:** Em andamento  
-📅 **Período:** Janeiro/2026 – Março/2026  
+## Conteúdos
+- Java Fundamentals
+- POO e Boas Práticas
+- Spring Boot e APIs REST
+- Docker e Containers
+- Cloud Computing (AWS)
 
-> O repositório será atualizado continuamente com projetos, desafios e aprendizados ao longo do bootcamp.
+## Projetos
+🚧 Em desenvolvimento
+
+## Status
+🟢 Em andamento (jan/2026 – mar/2026)
