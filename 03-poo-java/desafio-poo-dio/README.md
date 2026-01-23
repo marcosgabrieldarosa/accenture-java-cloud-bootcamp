@@ -32,6 +32,33 @@ Durante a implementação, foram praticados:
 
 ---
 
+## ✨ Evoluções Aplicadas
+
+Além da implementação base proposta no desafio, este projeto recebeu pequenos refinamentos com foco em boas práticas de Programação Orientada a Objetos, tais como:
+
+- Encapsulamento das operações de inscrição e adição de conteúdos no `Bootcamp`
+- Redução do acoplamento entre as classes de domínio
+- Uso de `Optional` para controle seguro do fluxo de progressão
+- Melhor organização da saída de dados por meio do método `toString()`
+- Código orientado à intenção do domínio, evitando manipulação direta de estruturas internas
+
+As evoluções mantêm o escopo original do desafio e têm como objetivo tornar o código mais legível, coeso e alinhado a cenários reais de desenvolvimento.
+
+---
+
+## ▶️ Exemplo de Execução
+
+Abaixo está um exemplo de execução da aplicação em console, demonstrando:
+
+- Inscrição de desenvolvedores no bootcamp
+- Progressão nos conteúdos
+- Cálculo de XP acumulado
+- Estado final de cada desenvolvedor
+
+![Console Output](docs/execucao-bootcamp.png)
+
+---
+
 ## 📚 Conteúdo das Aulas Relacionadas
 
 O código deste desafio foi desenvolvido gradualmente ao longo das seguintes aulas:
